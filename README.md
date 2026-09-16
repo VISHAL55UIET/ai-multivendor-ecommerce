@@ -10,7 +10,7 @@ The project uses a separated **React + TypeScript frontend** and **Spring Boot R
 
 ---
 
-# ✨ Key Features
+#  Key Features
 
 ## 👤 Customer
 
