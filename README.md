@@ -1,4 +1,4 @@
-# 🛒 Zosh Bazaar — AI-Powered Multi-Vendor E-Commerce Platform
+# 🛒 Zosh Bazaar — AI-Powered Multi-Vendor E-Commerce Platform 
 
 > A full-stack, AI-powered multi-vendor e-commerce platform built with React, TypeScript, Spring Boot, Java, MySQL, Spring Security, JWT, Stripe, Razorpay, and Spring AI.
 
